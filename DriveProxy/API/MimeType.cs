@@ -93,7 +93,7 @@ namespace DriveProxy.API
               {".axs", "application/olescript"},
               {".bas", "text/plain"},
               {".bcpio", "application/x-bcpio"},
-              {".bin", "application/octet-stream"},
+              {".bin", "application/octet-stream"},fvdsx
               {".bmp", "image/bmp"},
               {".c", "text/plain"},
               {".cab", "application/octet-stream"},
